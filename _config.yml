@@ -1,1 +1,5 @@
-title: '1Painalafois - Jesús Méndez Panadero'\ndescription: 'La referencia para aprender a hacer panes artesanales en casa'\ntheme: jekyll-theme-merlot
+title: 1painalafois
+description: My Markdown-driven website
+baseurl: "" # for GitHub Pages, leave empty
+url: "https://chuzzete.github.io/1painalafois"
+markdown: kramdown

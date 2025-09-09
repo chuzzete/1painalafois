@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f7f7f7;
+}
+
+nav ul {
+  background: #333;
+  padding: 1em;
+  list-style: none;
+  display: flex;
+  gap: 1em;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+main {
+  padding: 2em;
+  background: #fff;
+  max-width: 800px;
+  margin: 2em auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
