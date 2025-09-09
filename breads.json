@@ -1,0 +1,37 @@
+[  
+  {  
+    "id": 1,  
+    "name": "Sourdough",  
+    "description": "A tangy, crusty bread made from a fermented dough.",  
+    "categories": ["Artisan", "Whole Grain"],  
+    "image": "https://example.com/images/sourdough.jpg"  
+  },  
+  {  
+    "id": 2,  
+    "name": "Baguette",  
+    "description": "A long, narrow loaf known for its crispy crust.",  
+    "categories": ["French", "White Bread"],  
+    "image": "https://example.com/images/baguette.jpg"  
+  },  
+  {  
+    "id": 3,  
+    "name": "Focaccia",  
+    "description": "A flat oven-baked Italian bread, often seasoned with herbs.",  
+    "categories": ["Italian", "Flat Bread"],  
+    "image": "https://example.com/images/focaccia.jpg"  
+  },  
+  {  
+    "id": 4,  
+    "name": "Ciabatta",  
+    "description": "An Italian white bread with a crispy crust and soft, airy interior.",  
+    "categories": ["Italian", "Artisan"],  
+    "image": "https://example.com/images/ciabatta.jpg"  
+  },  
+  {  
+    "id": 5,  
+    "name": "Whole Wheat Bread",  
+    "description": "A healthy bread made from whole grain flour.",  
+    "categories": ["Whole Grain", "Health"],  
+    "image": "https://example.com/images/wholewheat.jpg"  
+  }  
+]
